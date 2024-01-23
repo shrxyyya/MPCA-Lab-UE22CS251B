@@ -1,6 +1,6 @@
 
 ;Check if a given number is even or odd.
-;NOTE: At the end of the program execution R2 contains 0 if number is even, otherwise R2 contains 1.
+;NOTE: At the end of the program's execution R2 contains 0 if number is even, otherwise R2 contains 1.
 
 .text
 
