@@ -1,7 +1,6 @@
 
 ;Write an ALP to add if the numbers are equal, otherwise subtract them.
 
-
 .text
 
     ;Assigning values to the registers
