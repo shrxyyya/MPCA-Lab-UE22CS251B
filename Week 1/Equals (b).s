@@ -19,6 +19,6 @@
         ADD R3, R0, R1
 
     exit:
-        SWI 0X011
+        SWI 0X11
 
 .end
