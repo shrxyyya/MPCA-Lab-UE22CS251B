@@ -26,6 +26,6 @@
         B gcd
 
     exit:
-        SWI 0X011
+        SWI 0x11
 
 .end
