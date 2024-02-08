@@ -19,6 +19,6 @@
         MOV R1, #0
     
     exit:
-        SWI 0X011
+        SWI 0X11
 
 .end
